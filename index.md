@@ -7,3 +7,12 @@ I have created headers using the "#" symbol, depending on the amount of # that y
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 this is an image of the yaktocat that i have used as an example.
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
